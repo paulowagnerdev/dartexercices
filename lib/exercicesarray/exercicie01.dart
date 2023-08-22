@@ -1,6 +1,7 @@
 /*Leia um vetor de 12 posições e em seguida ler também dois valores X e Y quaisquer correspondentes
 a duas posições no vetor. Ao final seu programa deverá escrever a soma dos valores encontrados nas respectivas posições X e Y.
 */
+
 import 'dart:math';
 
 void main(){
@@ -20,4 +21,8 @@ void main(){
   print(vetor[segundoValor]);
   print(somaVetor);
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 10f0a5bf2c86ff544c404672dcc3dc27beea51d1
