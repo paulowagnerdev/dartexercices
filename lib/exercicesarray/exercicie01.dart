@@ -21,8 +21,6 @@ void main(){
   print(vetor[segundoValor]);
   print(somaVetor);
 
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 10f0a5bf2c86ff544c404672dcc3dc27beea51d1
+
