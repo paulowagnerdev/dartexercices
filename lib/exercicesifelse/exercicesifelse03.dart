@@ -6,9 +6,9 @@ void main(){
 
   String sex = "m";
 
-  if(sex=="M"&&sex=="m"){
+  if(sex=="M"||sex=="m"){
     print("M - Masculino");
-  }else if(sex=="F"&&sex=="f"){
+  }else if(sex=="F"||sex=="f"){
     print("F - Feminino");
   }else{
     print("Sexo inválido.");
